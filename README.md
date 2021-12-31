@@ -3,7 +3,6 @@
 - [Tài liệu thực hành](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/tree/main/Tai_Lieu_Thuc_Hanh)
 ## Chương 1: Tổng quan về Mạng máy tính
 [Video: Mạng máy tính là gì?](https://www.youtube.com/watch?v=MOUU0tPzzYw&t=42s)
-## Chương 1: Tổng quan về Mạng máy tính
 ## Chương 2: Các thành phần của mạng máy tính
 ## Chương 3: Tầng vật lý
 ## Chương 4: ng liên kết dữ liệu
