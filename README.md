@@ -1,4 +1,6 @@
 # CT112_MMT_CTU
+- [Tài liệu lí thuyết](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/tree/main/Slide_Li_Thuyet)
+- []()
 ## Chương 1: Tổng quan về Mạng máy tính
 [Video: Mạng máy tính là gì?](https://www.youtube.com/watch?v=MOUU0tPzzYw&t=42s)
 ## Chương 1: Tổng quan về Mạng máy tính
