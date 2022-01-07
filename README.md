@@ -3,7 +3,7 @@
 # CT112_MMT_CTU
 - [Tài liệu lí thuyết](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/tree/main/Slide_Li_Thuyet)
 - [Tài liệu thực hành](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/tree/main/Tai_Lieu_Thuc_Hanh)
-- [Video Mạng máy tính](https://www.youtube.com/playlist?list=PLAWl4sDZTi7swN1NS7E-4AZIRacmGQDES)
+- [Video Mạng máy tính - ĐH KHTN](https://www.youtube.com/playlist?list=PLAWl4sDZTi7swN1NS7E-4AZIRacmGQDES)
 ## Chương 1: Tổng quan về Mạng máy tính
 [Video: Mạng máy tính là gì?](https://www.youtube.com/watch?v=MOUU0tPzzYw&t=42s)
 ## Chương 2: Các thành phần của mạng máy tính
