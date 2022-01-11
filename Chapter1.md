@@ -52,6 +52,7 @@
   - `Đường biên mạng (rìa của mạng)`- Network edge: các "máy chủ/trạm làm việc"(Host) và các chương trình ứng dụng mạng (Network Application)
   -  `Truy cập mạng, đường truyền vật lí` - Access Network, Physical media: các kênh truyền tải thông tin `hữu tuyến` hoặc `vô tuyến`-> Nối các đường biên
   -  `Đường trục mạng (lõi của mạng)`- Network Core: gồm hệ thống các bộ chọn đường (router) có vai trò là mạng trung tâm nối kết các mạng lại với nhau
+
 ![image](https://user-images.githubusercontent.com/88178841/148796357-28e5ac8a-5c1e-4a9c-bd04-6e147a62e4d5.png)
 
 ### Đường biên mạng (rìa của mạng)- Network edge
@@ -59,7 +60,11 @@
 - Còn được gọi là `End System`: điểm khởi đầu và kết thúc của các dòng thông tin
 - Tổ chức theo mô hình:
   - Client-Server: Mô hình khách hàng/Người phục vụ
+  
 ![image](https://user-images.githubusercontent.com/88178841/148801962-fb875df9-0cec-491f-ae43-dd24cb5bc031.png)
-  - Peer-to-peer: Mô hình ngang  
+  - Peer-to-peer: Mô hình ngang
+ 
+  ![image](https://user-images.githubusercontent.com/88178841/148926476-20da7664-18f1-4fcf-9fd8-fde42be6df3f.png)
+
 ### b. Truy cập mạng (Physical media)
 ### c. Lõi của mạng (Network core)
