@@ -94,3 +94,15 @@
 - Gói tin của những người dùng khác nhau sẽ `chia sẻ` băng thông của kênh truyền. Mỗi gói tin `sử dụng toàn bộ băng thông` của kênh truyền khi được cho phép -> lượng thông tin cần truyền đi vượt quá khả năng đáp ứng kênh truyền (nghẽn mạch) -> Router sử dụng giải thuật Store & Forward (`lưu` lại các `gói tin chưa gửi đi` được vào `hàng đợi` chờ cho đến khi kênh truyền trống chúng sẽ lần lượt được gửi)
 
 ![image](https://user-images.githubusercontent.com/88178841/149615515-0a0fd3c2-ccb3-41ae-a695-2ae7916be957.png)
+
+## So sánh Mạng chuyển mạch và mạng chuyển gói
+![image](https://user-images.githubusercontent.com/88178841/149615579-2a5c2b45-26f9-4f64-8a17-d2ab96703e53.png)
+
+- Ví dụ: 1 đường truyền 1Mbit, mỗi người dùng được cấp 100Kbps khi truy cập "active", thời gian "active" chiếm 10% tổng thời gian. Khi đó:
+   -  Circuit-switching: cho phép tối đa 10 users
+   -  Packet-switching: cho phép tối đa 35 
+
+> Mạng chuyển gói:
+>   -  Thích hợp lưu lượng thông tin lớn, cơ chế chia sẻ tài nguyên & không cần thiết lập kết nối
+>   Cần cơ chế điều khiến tắt nghẽn và mất dữ liệu
+>   Khó đảm bảo băng thông cố định cho các ứng dụng đa phương tiện.
