@@ -86,3 +86,11 @@
   - Phân chia theo tần số (FDMA-Frequency Division Multi Access)
   - Phân chia theo thời gian (TDMA- Time Division Multi Access) 
 ![image](https://user-images.githubusercontent.com/88178841/149615013-f9ef77bc-f560-4fa0-bae7-0d1f7ca21fdf.png)
+
+## Mạng chuyển gói (Packet switching network)
+- Thông tin truyền đi được chia thành các gói tin (Packets)
+- Các gói tin của Host khác nhau `cùng chia sẻ tài nguyên mạng`
+- Giải quyết `nghẽn mạch` -> sử dụng kỹ thuật `lưu & chuyển tiếp (Store and forward)`
+- Gói tin của những người dùng khác nhau sẽ `chia sẻ` băng thông của kênh truyền. Mỗi gói tin `sử dụng toàn bộ băng thông` của kênh truyền khi được cho phép -> lượng thông tin cần truyền đi vượt quá khả năng đáp ứng kênh truyền (nghẽn mạch) -> Router sử dụng giải thuật Store & Forward (`lưu` lại các `gói tin chưa gửi đi` được vào `hàng đợi` chờ cho đến khi kênh truyền trống chúng sẽ lần lượt được gửi)
+
+![image](https://user-images.githubusercontent.com/88178841/149615515-0a0fd3c2-ccb3-41ae-a695-2ae7916be957.png)
