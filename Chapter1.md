@@ -57,14 +57,31 @@
 
 ### Đường biên mạng (rìa của mạng)- Network edge
 - Các "máy chủ/máy trạm" (Host) thực thi các chương trình ứng dụng (Network Application)
-- Còn được gọi là `End System`: điểm khởi đầu và kết thúc của các dòng thông tin
-- Tổ chức theo mô hình:
-  - Client-Server: Mô hình khách hàng/Người phục vụ
-  
+- Còn được gọi là `End System`: điểm khởi đầu và kết thúc của các dòng thông tin với ý nghĩa đây chính là nơi xuất phát của thông tin di chuyển trên mạng, cũng như là điểm dừng của thông tin.
+- Quá trình trao đổi thông tin giữa 2 máy tính trên mạng tổ chức theo mô hình:
+  - `Client-Server`: Mô hình khách hàng/Người phục vụ
+-> 1 máy Client; 1 máy Server. Client gửi yêu cầu đến máy tính Server yêu cầu Server thực hiện công việc.
+
 ![image](https://user-images.githubusercontent.com/88178841/148801962-fb875df9-0cec-491f-ae43-dd24cb5bc031.png)
-  - Peer-to-peer: Mô hình ngang
+
+  - `Peer-to-peer`: Mô hình ngang
+ -> 1 máy tính vừa là Client vùa là Server. Một số ứng dụng như: [Gnutella](https://filegi.com/tech-term/gnutella-92/), KaZaA.
  
   ![image](https://user-images.githubusercontent.com/88178841/148926476-20da7664-18f1-4fcf-9fd8-fde42be6df3f.png)
 
-### b. Truy cập mạng (Physical media)
-### c. Lõi của mạng (Network core)
+### Truy cập mạng, đường truyền vật lí - Access Network, Physical media
+- Kết `nối các máy tính` (host - end system) `vào` các `Router ngoài biên` (Edge Router)
+### Đường trục mạng (lõi của mạng)- Network Core
+- Là hệ thống mạng của các bộ chọn đường (Routers),
+- Nhiệm vụ chọng đường và chuyển tiếp thông tin, đảm bảo sự trao đổi thông tin thông suốt giữa 2 máy tính nằm trên hai nhánh mạng cách xa nhau.
+- Sử dụng `2 chế độ truyền tin`:
+    `Chuyển mạch (Circuit switching)`
+   - `Chuyển gói (Packet switching` sử dụng chủ yêu trên Internet
+## Mạng chuyển mạch (Circuit switching network):
+- Thiết lập kênh truyền tận hiến giữa 2 bên truyền nhận.
+- Hoạt động theo mô hình `hệ thống điện thoại`. Có thể giao tiếp với máy B, máy A `phải` thực hiện 1 cuộc gọi. Nếu máy B chấp nhận cuộc gọi -> 1 kênh ảo được thiết lập dành riêng A & B trao đổi thông tin. Ngắt kết nối sau khi đã kết nối xong.
+- `Tất cả tài nguyên` được cấp cho cuộc gọi này: băng thông đường truyền khả năng của các bộ hoán chuyển thông tin đều `dành riêng` cho cuộc gọi này, `không được chia sẻ`
+- Phân chia băng thông bằng 2 phương pháp:
+  - Phân chia theo tần số (FDMA-Frequency Division Multi Access)
+  - Phân chia theo thời gian (TDMA- Time Division Multi Access) 
+![image](https://user-images.githubusercontent.com/88178841/149615013-f9ef77bc-f560-4fa0-bae7-0d1f7ca21fdf.png)
