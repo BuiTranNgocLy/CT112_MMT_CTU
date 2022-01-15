@@ -44,6 +44,7 @@
 
 # IV. Mạng máy tính
 - Là mạng của 2 hay nhiều máy tính được nối lại với nhau bằng đường truyền vật lí theo một kiến trúc nào đó.
+
 ![image](https://user-images.githubusercontent.com/88178841/148792310-f6f8e1a0-5b1d-49c4-9bf6-27766ebb166f.png)
 ![image](https://user-images.githubusercontent.com/88178841/148792352-b8fa7e13-b7d8-44f5-8cab-c174ab50739c.png)
 
