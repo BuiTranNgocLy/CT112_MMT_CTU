@@ -104,5 +104,14 @@
 
 > Mạng chuyển gói:
 >   -  Thích hợp lưu lượng thông tin lớn, cơ chế chia sẻ tài nguyên & không cần thiết lập kết nối
->   Cần cơ chế điều khiến tắt nghẽn và mất dữ liệu
->   Khó đảm bảo băng thông cố định cho các ứng dụng đa phương tiện.
+>   -  Cần cơ chế điều khiến tắt nghẽn và mất dữ liệu
+>   -  Khó đảm bảo băng thông cố định cho các ứng dụng đa phương tiện.
+
+# V. Lợi ích của mạng
+- `Tạo khả năng dùng chung`: phần cứng, phần mềm, dữ liệu.
+- `Nâng cao độ tin cậy của hệ thống`: công việc có thể tiếp tục khi có hư hỏng xảy ra.
+- `Nâng cao hiệu suất công việc`: giảm bớt 1 số công đoạn, tránh lặp lại công việc,..
+- `Giảm chi phí đầu tư`: dùng chung các thiết bị phần cứng, phần mềm đắt tiền.
+- `Tăng cường tính bảo mật thông tin`: chương trình & dữ liệu được đặt trên các máy chủ
+- `Nhiều ứng dụng mới được ra đời`: làm việc từ xa, làm việc nhóm, văn phòng ảo, hội thảo qua mạng,..
+- `Sử dụng thay thế các dịch vụ liên lạc truyền thông`: IP telephone, email, IPTV, chat,..
