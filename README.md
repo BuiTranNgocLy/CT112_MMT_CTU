@@ -1,4 +1,5 @@
 ![image](https://user-images.githubusercontent.com/88178841/148009351-4c0dd9c9-b57a-4e81-8cec-f72d9465e899.png)
+![Ami fat cat size to](https://user-images.githubusercontent.com/88178841/149616053-87669285-dff5-4357-bc91-b69a033e799f.gif)
 
 # CT112_MMT_CTU
 - [Tài liệu lí thuyết](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/tree/main/Slide_Li_Thuyet)
