@@ -12,6 +12,8 @@
   [1. Cấu trúc mạng máy tính](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter1.md#c%E1%BA%A5u-tr%C3%BAc-m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh)
   
   [2. Mạng chuyển mạch (Circuit switching network)](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter1.md#m%E1%BA%A1ng-chuy%E1%BB%83n-m%E1%BA%A1ch-circuit-switching-network)
+  
+  [3. Mạng chuyển gói (Packet switching network)](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter1.md#m%E1%BA%A1ng-chuy%E1%BB%83n-g%C3%B3i-packet-switching-network)
 ### [V. Lợi ích của mạng](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter1.md#v-l%E1%BB%A3i-%C3%ADch-c%E1%BB%A7a-m%E1%BA%A1ng)
 ## Chương 2: Các thành phần của mạng máy tính
 ## Chương 3: Tầng vật lý
