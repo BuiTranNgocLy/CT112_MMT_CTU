@@ -1,6 +1,4 @@
 ![image](https://user-images.githubusercontent.com/88178841/148009351-4c0dd9c9-b57a-4e81-8cec-f72d9465e899.png)
-![Ami fat cat size to](https://user-images.githubusercontent.com/88178841/149616053-87669285-dff5-4357-bc91-b69a033e799f.gif)
-
 # CT112_MMT_CTU
 - [Tài liệu lí thuyết](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/tree/main/Slide_Li_Thuyet)
 - [Tài liệu thực hành](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/tree/main/Tai_Lieu_Thuc_Hanh)
@@ -11,6 +9,7 @@
 ### [II. Mạng điện thoại](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter1.md#ii-m%E1%BA%A1ng-%C4%91i%E1%BB%87n-tho%E1%BA%A1i)
 ### [III. Mạng hướng đầu cuối](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter1.md#iii-m%E1%BA%A1ng-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BA%A7u-cu%E1%BB%91i)
 ### [IV. Mạng máy tính](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter1.md#iv-m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh)
+  [1. Cấu trúc mạng máy tính](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter1.md#c%E1%BA%A5u-tr%C3%BAc-m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh)
 ## Chương 2: Các thành phần của mạng máy tính
 ## Chương 3: Tầng vật lý
 ## Chương 4: ng liên kết dữ liệu
