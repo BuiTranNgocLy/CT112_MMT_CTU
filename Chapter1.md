@@ -1,3 +1,13 @@
+> Vấn đề cần hiểu:
+> 
+> -> Các mạng truyền dữ liệu
+> 
+> -> Cấu trúc của 1 mạng máy tính
+> 
+> -> Các phương pháp truyền tải thông tin
+> 
+> -> Lợi ích mạng máy tính
+
 # I. Mạng điện báo
 ## Sơ lược
 - Sử mã `Morse` (sử dụng 2 tín hiệu  `tic` (•) và `te` (**-**) để mã hóa dữ liệu truyền đi.
