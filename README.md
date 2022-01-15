@@ -17,7 +17,11 @@
   
   [4. So sánh  Mạng chuyển mạch & Mạng chuyển gói](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter1.md#so-s%C3%A1nh-m%E1%BA%A1ng-chuy%E1%BB%83n-m%E1%BA%A1ch-v%C3%A0-m%E1%BA%A1ng-chuy%E1%BB%83n-g%C3%B3i)
 ### [V. Lợi ích của mạng](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter1.md#v-l%E1%BB%A3i-%C3%ADch-c%E1%BB%A7a-m%E1%BA%A1ng)
-## Chương 2: Các thành phần của mạng máy tính
+## Chương 2: 
+### Phần 1: Các thành phần của mạng máy tính
+#### [I. Phân loại mạng]()
+#### [II. Kiến trúc phần mềm mạng]()
+### Phần 2: MÔ HÌNH THAM KHẢO OSI
 ## Chương 3: Tầng vật lý
 ## Chương 4: ng liên kết dữ liệu
 ## Chương 5: Mạng nội bộ và Lớp con điều khiển truy nhập
