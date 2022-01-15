@@ -21,7 +21,7 @@
 ### Phần 1: Các thành phần của mạng máy tính
 #### [I. Phân loại mạng]()
 #### [II. Kiến trúc phần mềm mạng]()
-### Phần 2: MÔ HÌNH THAM KHẢO OSI
+### Phần 2: Mô hình tham khảo OSI
 ## Chương 3: Tầng vật lý
 ## Chương 4: ng liên kết dữ liệu
 ## Chương 5: Mạng nội bộ và Lớp con điều khiển truy nhập
