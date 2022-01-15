@@ -7,6 +7,7 @@
 ## Chương 1: Tổng quan về Mạng máy tính
 [Video: Mạng máy tính là gì?](https://www.youtube.com/watch?v=MOUU0tPzzYw&t=42s)
 ### [I. Mạng điện báo](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter1.md#i-m%E1%BA%A1ng-%C4%91i%E1%BB%87n-b%C3%A1o)
+### [II. Mạng điện thoại](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter1.md#ii-m%E1%BA%A1ng-%C4%91i%E1%BB%87n-tho%E1%BA%A1i)
 ## Chương 2: Các thành phần của mạng máy tính
 ## Chương 3: Tầng vật lý
 ## Chương 4: ng liên kết dữ liệu
