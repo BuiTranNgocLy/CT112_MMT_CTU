@@ -19,7 +19,7 @@
 ### [V. Lợi ích của mạng](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter1.md#v-l%E1%BB%A3i-%C3%ADch-c%E1%BB%A7a-m%E1%BA%A1ng)
 ## Chương 2: 
 ### Phần 1: Các thành phần của mạng máy tính
-#### [I. Phân loại mạng]()
+#### [I. Phân loại mạng](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P1.md#a-ph%C3%A2n-lo%E1%BA%A1i-m%E1%BA%A1ng)
 #### [II. Kiến trúc phần mềm mạng]()
 ### Phần 2: Mô hình tham khảo OSI
 ## Chương 3: Tầng vật lý
