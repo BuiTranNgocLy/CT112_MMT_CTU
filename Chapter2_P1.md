@@ -92,7 +92,7 @@
 - Mỗi yêu cầu của Client xem là mới, nó không liên quan đến yêu cầu trước -> Giúp giải phóng đường mạng -> sử dụng liên tục.
 - Tầng vận chuyển có trạng thái: truyền 1 tin duy nhất -> giữ nguyên -> nhận được tất cả các gói & tập trung tại điểm
 ### 3. Các tầng
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/88178841/154832757-9b57f6f5-d45a-44b0-90a7-8037edc0dffe.png)
 
 - `Application`: cung cấp ứng dụng  trao đổi dữ liệu được chuẩn hóa. Bao gồm các giao thức HTTP, FTP, POP3, SMTP, SNMP.
 - `Transport`: duy trì liên lạc đầu cuối trên toàn mạng. Xử lí thông tin liên lạc giữa các máy chủ -> cung cấp điều khiển luồng, ghép kênh, độ tin cậy. Bao gồm các giao thức: TCP, UDP
@@ -100,8 +100,24 @@
 - `Network Acess`: chỉ hoạt động trên 1 liên kết- thành phần mạng kết nối/ nút/ máy chủ trong mạng. Bao gồm các giao thức: Ethmet cho mạng LAN, ARP - phân giải địa chỉ
 ## V. Dịch vụ mạng - 2 dịch vụ
 ### 1. Dịch vụ định hướng kết nối (Connection - Oriented)
-- Vận hành mô hình hệ thống điện thoại
+- Vận hành `mô hình hệ thống điện thoại`
 - Trước khi trao đổi thông tin -> thiết lập nối kết
 - Sau khi trao đổi xong -> ngắt kết nối.
+### 2. Dịch vụ không kết nối (Connectionless)
+- Vận hành `mô hình thư tín`
+- Dữ liệu trước khi truyền đi -> vào trong gói tin (Packets)
+- Trên các gói tin có thông tin về địa chỉ người gửi & địa chỉ người nhận
 ## VI. Các phép toán của dịch vụ
+- Listen: nghe, chờ kết nối kết gửi đến
+- Connect: yêu cầu thiết lập với bên muốn giao tiếp
+- Recieve: Chờ nhận các thông điệp gửi đến
+- Send: gửi thông diệp
+- Disconnect: kết thúc 1 nối 
+- Mô hình Client - Server có kết nối
+![Uploading image.png…]()
+
+- Mô hình không kết nối bỏ đi 1, 2, 5, 6
 ## VII. Sự khác biệt giữa dịch vụ & giao thức
+- `Dịch vụ`: các thủ tục 1 tầng cung cấp cho tầng phía trên của nó
+- `Giao thức`: tập hợp các quy tắc mô tả khuôn dạng, ý nghĩa của các gói tin được trao đổi
+- 1 dịch vụ -> có thể thực hiện bởi các giao thức kahsc nhau
