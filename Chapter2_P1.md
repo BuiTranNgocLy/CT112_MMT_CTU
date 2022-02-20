@@ -46,7 +46,7 @@
 - Ưu: dễ cài, dễ phát hiện lỗi. Mạng vẫn hoạt động khi `thêm Host`
 - Khuyết: Chi phí cao so với Bus, không hoạt động nếu Hub bị lỗi
 #### Mạng hình vòng (Ring)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/88178841/154831362-b2773231-0a56-4709-aa23-6d06edfa4fa9.png)
 
 - Truyền thông tin bằng 1 thẻ `(token)` lần lượt qua các máy tính
 - Ưu: không xảy ra đụng độ -> hiệu suất 100%
@@ -63,12 +63,42 @@
 ## III. Phân loại mạng (hữu tuyến / vô tuyến)
 ### 1. Mạng không dây (wireless Network)
 ### Liên mạng (Internetwork)
-- 
+- Hình thành từ kết nối nhiều mạng lại với nhau
+- `LAN = LAN + LAN`
+- `WAN = LAN + LAN`
+- `WAN = WAN + WAN`
 # B. Kiến trúc phần mềm mạng
-## I. Các thành phần phần mềm mạng
+## I. Các thành phần phần mềm mạng - 3tp
+- Thành phần làm cho Mạng máy tính hoạt động, xây dựng dưa trên nền tảng 3 khái niệm
+   - `Giao thức (Protocol)`: mô tả cách thức 2 thành phần mạng giao tiếp, trao đổi thông tin với nhau.
+   - `Dịch vụ (Services)`: mô tả những điều mà 1 thành phần mạng cung cấp cho các thành phần khác muốn giao tiếp với nó.
+   - `Giao diện (Interfaces)`: mô tả cách Khách hàng có thể sử dụng dịch vụ mạng và cách các dịch vụ có thể truy cập
 ## II. Kiến trúc thứ bậc của giao thức
+- `Giảm độ phức tạp` trong quá trình thiết kế, xây dựng các hệ thống mạng -> tổ chức thành `Stack`, các lớp khác nhau, dựa theo nguyên tắc:
+   - Tầng trên sử dụng dịch vụ của tầng dưới
+   - 2 tầng ngang cấp nhau, trên 2 đối tượng mạng -> thống nhất về `giao thức` mà chúng trao đổi thông
+   - Giữa 2 tầng liền kề tồn tại 1 `giao diện`
+- Hệ thống mạng kháu nhau -> khác số tầng, tên/chức năng từng 
 ## III. Mô hình truyền tải tập tin 3 tầng
 ## IV. Bô giao thức  TCP/IP (quan trọng)
+### 1. TCP/IP là gì?
+- Transmission Control Protocol/Internet Protocol (Giao thức điều khiển truyền vận / giao thức)
+- Bộ các giao thức trao đổi thông tin -> kết nối các thiết bị mạng trên Internet
+- Trao đổi bằng cách cung cấp thông tin trao đổi đầu cuối -> xác định cách thức nó được chia thành các gói, gắn đại chỉ, vận chuyển, định tuyến và nhận ở điểm đến
+- `TCP`: xác định ứng dụng tạo kênh giao tiếp trong mạng, quản lí cách các tin được phân thành các gói nhỏ trước khi chuyển qua Internet & tập hợp đúng thứ tự tại địa chỉ đến
+- `IP`: xác định cách gán địa chỉ & định tuyến từng gói -> đảm bảo đến đúng nơi
+### 2. Hoạt động
+- Mô hình `Client/Server`: Server cung cấp dịch vụ
+- Mỗi yêu cầu của Client xem là mới, nó không liên quan đến yêu cầu trước -> Giúp giải phóng đường mạng -> sử dụng liên tục.
+- Tầng vận chuyển có trạng thái: truyền 1 tin duy nhất -> giữ nguyên -> nhận được tất cả các gói & tập trung tại điểm
+### 3. Các tầng
+![Uploading image.png…]()
+
+- `Application`: cung cấp ứng dụng  trao đổi dữ liệu được chuẩn hóa. Bao gồm các giao thức HTTP, FTP, POP3, SMTP, SNMP.
+- `Transport`: duy trì liên lạc đầu cuối trên toàn mạng. Xử lí thông tin liên lạc giữa các máy chủ -> cung cấp điều khiển luồng, ghép kênh, độ tin cậy. Bao gồm các giao thức: TCP, UDP
+- `Internet`: xử lí các gói & kết nối các mạng độc lập -> vận chuyển các gói dữ liệu qua ranh giới mạng. Bao gồm các giao thức: IP, ICMP -> báo cáo lỗi.
+- `Network Acess`: chỉ hoạt động trên 1 liên kết- thành phần mạng kết nối/ nút/ máy chủ trong mạng. Bao gồm các giao thức: Ethmet cho mạng LAN, ARP - phân giải địa chỉ
 ## V. Dịch vụ mạng
+###
 ## VI. Các phép toán của dịch vụ
 ## VII. Sự khác biệt giữa dịch vụ & giao thức
