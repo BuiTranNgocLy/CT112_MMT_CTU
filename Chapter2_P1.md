@@ -114,6 +114,7 @@
 - Send: gửi thông diệp
 - Disconnect: kết thúc 1 nối 
 - Mô hình Client - Server có kết nối
+
 ![Uploading image.png…]()
 
 - Mô hình không kết nối bỏ đi 1, 2, 5, 6
