@@ -98,7 +98,10 @@
 - `Transport`: duy trì liên lạc đầu cuối trên toàn mạng. Xử lí thông tin liên lạc giữa các máy chủ -> cung cấp điều khiển luồng, ghép kênh, độ tin cậy. Bao gồm các giao thức: TCP, UDP
 - `Internet`: xử lí các gói & kết nối các mạng độc lập -> vận chuyển các gói dữ liệu qua ranh giới mạng. Bao gồm các giao thức: IP, ICMP -> báo cáo lỗi.
 - `Network Acess`: chỉ hoạt động trên 1 liên kết- thành phần mạng kết nối/ nút/ máy chủ trong mạng. Bao gồm các giao thức: Ethmet cho mạng LAN, ARP - phân giải địa chỉ
-## V. Dịch vụ mạng
-###
+## V. Dịch vụ mạng - 2 dịch vụ
+### 1. Dịch vụ định hướng kết nối (Connection - Oriented)
+- Vận hành mô hình hệ thống điện thoại
+- Trước khi trao đổi thông tin -> thiết lập nối kết
+- Sau khi trao đổi xong -> ngắt kết nối.
 ## VI. Các phép toán của dịch vụ
 ## VII. Sự khác biệt giữa dịch vụ & giao thức
