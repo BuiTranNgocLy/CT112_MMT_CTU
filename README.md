@@ -22,7 +22,8 @@
 #### [I. Phân loại mạng](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P1.md#a-ph%C3%A2n-lo%E1%BA%A1i-m%E1%BA%A1ng)
 #### [II. Kiến trúc phần mềm mạng](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P1.md#b-ki%E1%BA%BFn-tr%C3%BAc-ph%E1%BA%A7n-m%E1%BB%81m-m%E1%BA%A1ng)
 ### Phần 2: Mô hình tham khảo OSI
-#### [](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P2.md#m%C3%B4-h%C3%ACnh-tham-kh%E1%BA%A3o-osi-open-system-interconnection-model)
+#### [Mô hình tham khảo OSI (Open System Interconnection Model)](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P2.md#m%C3%B4-h%C3%ACnh-tham-kh%E1%BA%A3o-osi-open-system-interconnection-model)
+
 ## Chương 3: Tầng vật lý
 ## Chương 4: ng liên kết dữ liệu
 ## Chương 5: Mạng nội bộ và Lớp con điều khiển truy nhập
