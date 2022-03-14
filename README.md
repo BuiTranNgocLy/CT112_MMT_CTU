@@ -23,7 +23,14 @@
 #### [II. Kiến trúc phần mềm mạng](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P1.md#b-ki%E1%BA%BFn-tr%C3%BAc-ph%E1%BA%A7n-m%E1%BB%81m-m%E1%BA%A1ng)
 ### Phần 2: Mô hình tham khảo OSI
 #### [I. Mô hình tham khảo OSI (Open System Interconnection Model)](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P2.md#m%C3%B4-h%C3%ACnh-tham-kh%E1%BA%A3o-osi-open-system-interconnection-model)
-#### [1. ](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P2.md#1-t%E1%BA%A7ng-%E1%BB%A9ng-d%E1%BB%A5ng-application-layer---t%E1%BA%A7ng-7)
+#### [1. Tầng ứng dụng (Application layer) - tầng 7](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P2.md#1-t%E1%BA%A7ng-%E1%BB%A9ng-d%E1%BB%A5ng-application-layer---t%E1%BA%A7ng-7)
+#### [2. Tầng trình bày (Presentation layer) - tầng 6](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P2.md#2-t%E1%BA%A7ng-tr%C3%ACnh-b%C3%A0y-presentation-layer---t%E1%BA%A7ng-6)
+#### [3. Tầng giao dịch (Session layer) - tầng 5](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P2.md#3-t%E1%BA%A7ng-giao-d%E1%BB%8Bch-session-layer---t%E1%BA%A7ng-5)
+#### [4. Tầng vận chuyển (Transport layer) - tầng 4](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P2.md#4-t%E1%BA%A7ng-v%E1%BA%ADn-chuy%E1%BB%83n-transport-layer---t%E1%BA%A7ng-4)
+#### [5. Tầng mạng (Network layer) - tầng 3](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P2.md#5-t%E1%BA%A7ng-m%E1%BA%A1ng-network-layer---t%E1%BA%A7ng-3)
+#### [6. Tầng liên kết dữ liệu (Data link layer) - tầng 2](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P2.md#6-t%E1%BA%A7ng-li%C3%AAn-k%E1%BA%BFt-d%E1%BB%AF-li%E1%BB%87u-data-link-layer---t%E1%BA%A7ng-2)
+#### [7. Tầng vật lý (Physical layer) - tầng 1](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P2.md#7-t%E1%BA%A7ng-v%E1%BA%ADt-l%C3%BD-physical-layer---t%E1%BA%A7ng-1)
+#### [8. Tóm tắt chức năng](https://github.com/BuiTranNgocLy/CT112_MMT_CTU/blob/main/Chapter2_P2.md#8-t%C3%B3m-t%E1%BA%AFt-ch%E1%BB%A9c-n%C4%83ng)
 ## Chương 3: Tầng vật lý
 ## Chương 4: ng liên kết dữ liệu
 ## Chương 5: Mạng nội bộ và Lớp con điều khiển truy nhập
