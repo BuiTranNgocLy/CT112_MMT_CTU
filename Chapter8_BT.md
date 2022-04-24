@@ -1,0 +1,19 @@
+- DNS dựa trên giao thức của tầng vận chuyển -> `port 53 và TCP`
+- Dịch vụ FTP dựa trên giao thức của tầng vận chuyển -> `TCP`
+- Email Client gửi thư cho máy email sử dụng giao thức -> SMTP
+- Giao thức cho phép người dùng đọc trực tiếp mail trong mailbox trên máy chủ -> HTTP
+- Hai máy chủ email thực hiện việc chuyển mail qua các giai đoạn: -> Bắt tay / Truyền thư / Đóng kết nối
+- Hai máy chủ thư điện từ trao đổi thư qua giao thức -> SMTP
+- Cổng mặc định của giao thức DNS -> 
+- SMTP -> port 25
+- Giao thức HTTP – `Port 80` & giao thức HTTPS – `Port 443`
+- Giao thức POP – `Port 0` & giao thức POP3S – `Port 995`
+- Giao thức SMTP – `Port 25` & giao thức SMTPS – `Port 465`
+- HTTP 'request line' gồm những trường -> Method / URL / version
+- IMAP -> Internet Mail Access Protocol
+- Mã lỗi web server 
+  - 1xx: Thông tin -> Đã nhận được yêu cầu, đang tiếp tục xử lý
+  - 2xx: Thành công -> Thao tác đã được tiếp nhận, hiểu được và chấp nhận được
+  - 3xx: Chuyển hướng -> Cần thực hiện thêm thao tác để hoàn tất yêu cầu được đặt ra
+  - 4xx: Lỗi client -> Yêu cầu có cú pháp sai hoặc không thể đáp ứng
+  - 5xx: Lỗi server -> Server thất bại trong việc đáp ứng một yêu cầu hợp 
